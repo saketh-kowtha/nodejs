@@ -1,0 +1,1 @@
+{"doctors":[{"name":"Ravi","speclization":"Uaet25 686","avalibility":["{\"from\":100,\"to\":200}"],"id":"DO7687460707","appoinment":{"100-200 2 1 2020":2}}],"patients":[{"name":"Sekhar","mobileNumber":"55555","age":"15","id":"PA7529825768"}]}
